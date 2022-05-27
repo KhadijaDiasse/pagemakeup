@@ -15,7 +15,7 @@
       <div class="menu">
         <ul>
           <li><a href="accueil.php">Accueil</a></li>
-          <li><a href="makeupp.php">MAKEUP</a></li>
+          <li><a href="makeupp.php">MAQUILLAGE</a></li>
           
           <li><a href="ongle.php">POSE ONGLES</a></li>
           <li><a href="cils.php">POSE CILS</a></li>
