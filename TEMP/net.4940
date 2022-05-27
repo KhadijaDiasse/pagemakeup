@@ -1,0 +1,33 @@
+
+LSNRCTL for 32-bit Windows: Version 10.2.0.3.0 - Production on 22-MAR-2022 20:22:14
+
+Copyright (c) 1991, 2006, Oracle.  All rights reserved.
+
+Welcome to LSNRCTL, type "help" for information.
+
+LSNRCTL> Connecting to (ADDRESS=(PROTOCOL=TCP)(HOST=DESKTOP-62H2NVJ)(PORT=1521))
+STATUS of the LISTENER
+------------------------
+Alias                     LISTENER
+Version                   TNSLSNR for 32-bit Windows: Version 10.2.0.3.0 - Production
+Start Date                21-MAR-2022 18:19:31
+Uptime                    1 days 2 hr. 2 min. 49 sec
+Trace Level               off
+Security                  ON: Local OS Authentication
+SNMP                      OFF
+Listener Parameter File   C:\oracle\network\admin\listener.ora
+Listener Log File         C:\oracle\network\log\listener.log
+Listening Endpoints Summary...
+  (DESCRIPTION=(ADDRESS=(PROTOCOL=ipc)(PIPENAME=\\.\pipe\EXTPROC1ipc)))
+  (DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=DESKTOP-62H2NVJ)(PORT=1521)))
+Services Summary...
+Service "DiasseXDB" has 1 instance(s).
+  Instance "diasse", status READY, has 1 handler(s) for this service...
+Service "Diasse_XPT" has 1 instance(s).
+  Instance "diasse", status READY, has 1 handler(s) for this service...
+Service "PLSExtProc" has 1 instance(s).
+  Instance "PLSExtProc", status UNKNOWN, has 1 handler(s) for this service...
+Service "diasse" has 1 instance(s).
+  Instance "diasse", status READY, has 1 handler(s) for this service...
+The command completed successfully
+LSNRCTL> 
